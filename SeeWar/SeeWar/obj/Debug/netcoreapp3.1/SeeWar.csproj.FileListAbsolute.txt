@@ -1,0 +1,13 @@
+C:\Users\Antony\source\repos\SeeWar\SeeWar\obj\Debug\netcoreapp3.1\SeeWar.csprojAssemblyReference.cache
+C:\Users\Antony\source\repos\SeeWar\SeeWar\obj\Debug\netcoreapp3.1\SeeWar.AssemblyInfoInputs.cache
+C:\Users\Antony\source\repos\SeeWar\SeeWar\obj\Debug\netcoreapp3.1\SeeWar.AssemblyInfo.cs
+C:\Users\Antony\source\repos\SeeWar\SeeWar\obj\Debug\netcoreapp3.1\SeeWar.csproj.CoreCompileInputs.cache
+C:\Users\Antony\source\repos\SeeWar\SeeWar\bin\Debug\netcoreapp3.1\SeeWar.exe
+C:\Users\Antony\source\repos\SeeWar\SeeWar\bin\Debug\netcoreapp3.1\SeeWar.deps.json
+C:\Users\Antony\source\repos\SeeWar\SeeWar\bin\Debug\netcoreapp3.1\SeeWar.runtimeconfig.json
+C:\Users\Antony\source\repos\SeeWar\SeeWar\bin\Debug\netcoreapp3.1\SeeWar.runtimeconfig.dev.json
+C:\Users\Antony\source\repos\SeeWar\SeeWar\bin\Debug\netcoreapp3.1\SeeWar.dll
+C:\Users\Antony\source\repos\SeeWar\SeeWar\bin\Debug\netcoreapp3.1\SeeWar.pdb
+C:\Users\Antony\source\repos\SeeWar\SeeWar\obj\Debug\netcoreapp3.1\SeeWar.dll
+C:\Users\Antony\source\repos\SeeWar\SeeWar\obj\Debug\netcoreapp3.1\SeeWar.pdb
+C:\Users\Antony\source\repos\SeeWar\SeeWar\obj\Debug\netcoreapp3.1\SeeWar.genruntimeconfig.cache
